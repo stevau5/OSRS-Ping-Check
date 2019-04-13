@@ -12,12 +12,18 @@ except:
 
 f = open("output.txt", "x")
 
-for x in range(1, 32):
-    os.system("ping -c 1 oldschool"+ str(x) +".runescape.com >> output.txt")
+for x in range(1, 237):
+    try:
+        os.system("ping -c 1 oldschool" + str(x) + ".runescape.com >> output.txt")
+        print("World", x)
+    except: 
+        print("World didnt work: ", x)
 
-count = 301
+
 
 f = open("output.txt", "r")
+
+count = 301
 
 for line in f:
     if line.find("time") != -1:
