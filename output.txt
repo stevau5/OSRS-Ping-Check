@@ -1,0 +1,116 @@
+PING l3ushe56-bond0-5.jagex.com (8.42.17.164): 56 data bytes
+64 bytes from 8.42.17.164: icmp_seq=0 ttl=52 time=113.742 ms
+
+--- l3ushe56-bond0-5.jagex.com ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 113.742/113.742/113.742/0.000 ms
+PING l3uklo11-bond0-1.jagex.com (217.163.53.224): 56 data bytes
+64 bytes from 217.163.53.224: icmp_seq=0 ttl=52 time=125.011 ms
+
+--- l3uklo11-bond0-1.jagex.com ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 125.011/125.011/125.011/0.000 ms
+PING l3deff17-bond0-1.jagex.com (81.31.203.153): 56 data bytes
+64 bytes from 81.31.203.153: icmp_seq=0 ttl=50 time=140.367 ms
+
+--- l3deff17-bond0-1.jagex.com ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 140.367/140.367/140.367/0.000 ms
+PING l3deff6-bond0-1.jagex.com (81.31.203.132): 56 data bytes
+64 bytes from 81.31.203.132: icmp_seq=0 ttl=50 time=137.543 ms
+
+--- l3deff6-bond0-1.jagex.com ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 137.543/137.543/137.543/0.000 ms
+PING l3ushe56-bond0-1.jagex.com (8.42.17.160): 56 data bytes
+64 bytes from 8.42.17.160: icmp_seq=0 ttl=52 time=142.087 ms
+
+--- l3ushe56-bond0-1.jagex.com ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 142.087/142.087/142.087/0.000 ms
+PING l3uslv29-bond0-7.jagex.com (8.26.41.204): 56 data bytes
+64 bytes from 8.26.41.204: icmp_seq=0 ttl=47 time=464.621 ms
+
+--- l3uslv29-bond0-7.jagex.com ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 464.621/464.621/464.621/0.000 ms
+PING l3uslv29-bond0-1.jagex.com (8.26.41.198): 56 data bytes
+64 bytes from 8.26.41.198: icmp_seq=0 ttl=47 time=312.086 ms
+
+--- l3uslv29-bond0-1.jagex.com ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 312.086/312.086/312.086/0.000 ms
+PING l3uklo27-bond0-5.jagex.com (217.163.53.202): 56 data bytes
+64 bytes from 217.163.53.202: icmp_seq=0 ttl=52 time=132.855 ms
+
+--- l3uklo27-bond0-5.jagex.com ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 132.855/132.855/132.855/0.000 ms
+PING l3uklo10-bond0-2.jagex.com (217.163.53.216): 56 data bytes
+64 bytes from 217.163.53.216: icmp_seq=0 ttl=52 time=392.956 ms
+
+--- l3uklo10-bond0-2.jagex.com ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 392.956/392.956/392.956/0.000 ms
+PING l3uklo11-bond0-2.jagex.com (217.163.53.225): 56 data bytes
+64 bytes from 217.163.53.225: icmp_seq=0 ttl=52 time=205.547 ms
+
+--- l3uklo11-bond0-2.jagex.com ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 205.547/205.547/205.547/0.000 ms
+PING l3deff17-bond0-2.jagex.com (81.31.203.154): 56 data bytes
+
+--- l3deff17-bond0-2.jagex.com ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING l3deff6-bond0-2.jagex.com (81.31.203.133): 56 data bytes
+64 bytes from 81.31.203.133: icmp_seq=0 ttl=51 time=307.426 ms
+
+--- l3deff6-bond0-2.jagex.com ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 307.426/307.426/307.426/0.000 ms
+PING l3uslv30-bond0-7.jagex.com (8.26.41.216): 56 data bytes
+64 bytes from 8.26.41.216: icmp_seq=0 ttl=47 time=407.809 ms
+
+--- l3uslv30-bond0-7.jagex.com ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 407.809/407.809/407.809/0.000 ms
+PING l3ushe57-bond0-2.jagex.com (8.42.17.173): 56 data bytes
+64 bytes from 8.42.17.173: icmp_seq=0 ttl=52 time=600.431 ms
+
+--- l3ushe57-bond0-2.jagex.com ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 600.431/600.431/600.431/0.000 ms
+PING l3uslv30-bond0-1.jagex.com (8.26.41.210): 56 data bytes
+64 bytes from 8.26.41.210: icmp_seq=0 ttl=47 time=100.109 ms
+
+--- l3uslv30-bond0-1.jagex.com ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 100.109/100.109/100.109/0.000 ms
+PING l3uklo27-bond0-2.jagex.com (217.163.53.229): 56 data bytes
+64 bytes from 217.163.53.229: icmp_seq=0 ttl=52 time=136.932 ms
+
+--- l3uklo27-bond0-2.jagex.com ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 136.932/136.932/136.932/0.000 ms
+PING l3uklo10-bond0-3.jagex.com (217.163.53.217): 56 data bytes
+64 bytes from 217.163.53.217: icmp_seq=0 ttl=52 time=107.864 ms
+
+--- l3uklo10-bond0-3.jagex.com ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 107.864/107.864/107.864/0.000 ms
+PING l3uklo27-bond0-3.jagex.com (217.163.53.214): 56 data bytes
+
+--- l3uklo27-bond0-3.jagex.com ping statistics ---
+1 packets transmitted, 0 packets received, 100.0% packet loss
+PING l3uslv30-bond0-8.jagex.com (8.26.41.217): 56 data bytes
+64 bytes from 8.26.41.217: icmp_seq=0 ttl=47 time=896.536 ms
+
+--- l3uslv30-bond0-8.jagex.com ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 896.536/896.536/896.536/0.000 ms
+PING l3ushe56-bond0-3.jagex.com (8.42.17.162): 56 data bytes
+64 bytes from 8.42.17.162: icmp_seq=0 ttl=52 time=435.870 ms
+
+--- l3ushe56-bond0-3.jagex.com ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 435.870/435.870/435.870/0.000 ms
