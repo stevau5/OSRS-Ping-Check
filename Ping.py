@@ -13,11 +13,11 @@ except:
 f = open("output.txt", "x")
 
 for x in range(1, 237):
-        if: 
-            os.system("ping -c 1 oldschool" + str(x) + ".runescape.com >> output.txt") == 0
-            #I need to add an array that stores the worlds that ahve a valid ping, if they dont have a valid ping they need 
-            #there needs to be a null value. 
-            print("World", x)
+    if: 
+        os.system("ping -c 1 oldschool" + str(x) + ".runescape.com >> output.txt") == 0
+        #I need to add an array that stores the worlds that ahve a valid ping, if they dont have a valid ping they need 
+        #there needs to be a null value. 
+        print("World", x)
   
 
 
