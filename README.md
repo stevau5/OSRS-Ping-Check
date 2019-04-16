@@ -1,2 +1,2 @@
 # OSRS-Ping-Check
-Script for checking the ping of worlds in Old School Runescape. 
+CommandLine Interface for checking the ping of worlds in Old School Runescape. 
