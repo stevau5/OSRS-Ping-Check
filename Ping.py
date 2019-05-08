@@ -1,6 +1,6 @@
 import os
 import time
-
+#Start Here
 begintime = time.time()
 
 print (" ... Commencing World Ping Sequence ...")
